@@ -22,5 +22,8 @@ func main() {
 	// value := operations.MultiplicationTable2()
 	// fmt.Printf(value)
 
-	files.CreateFile()
+	// files.CreateFile()
+	// files.AddTable()
+	// files.ReadingFile()
+	files.ReadinFile2()
 }
