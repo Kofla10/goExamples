@@ -1,7 +1,7 @@
 package main
 
 import (
-	"exercises/files"
+	"exercises/functions"
 )
 
 func main() {
@@ -25,5 +25,7 @@ func main() {
 	// files.CreateFile()
 	// files.AddTable()
 	// files.ReadingFile()
-	files.ReadinFile2()
+	// files.ReadinFile2()
+
+	functions.Calculo()
 }
